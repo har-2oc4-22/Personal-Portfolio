@@ -152,22 +152,22 @@ export const achievements = [
     },
     {
         title: "CodeChef 3 Star",
-        description: "Reached a peak rating of 1615.",
+        description: "Reached a peak rating of 1702.",
         link: "https://www.codechef.com/users/harsh_shukla22"
     },
     {
         title: "Global Rank 165 - LeetCode",
         description: "Secured rank 165 globally in LeetCode Weekly Contest 438.",
-        link: "https://leetcode.com/u/HaRsH__ShuKLa/"
+        link: "https://leetcode.com/contest/weekly-contest-438/ranking/?region=global_v2"
     },
     {
-        title: "Rank 42 - CodeChef",
+        title: "Rank 187 - CodeChef",
         description: "Placed 42nd globally in CodeChef Starters 131 (Division 2).",
-        link: "https://www.codechef.com/users/harsh_shukla22"
+        link: "https://www.codechef.com/rankings/START227B?itemsPerPage=100&order=asc&page=1&sortBy=rank"
     },
     {
         title: "Problem Solving Expert",
         description: "Successfully solved over 1000+ problems across various platforms including LeetCode, Codeforces, and GeeksforGeeks.",
-        link: "https://leetcode.com/u/HaRsH__ShuKLa/"
+        link: "https://codolio.com/profile/HaRsH_sHUKlA-"
     }
 ];

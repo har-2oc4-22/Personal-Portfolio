@@ -67,18 +67,18 @@ export const interests = [
 ];
 export const projects = [
     {
-        title: "Chatify",
+        title: "Connectify",
         description: "A responsive full-stack community platform for developers. Features real-time group chat via Socket.io, secure media uploads using Multer and Cloudinary, and JWT-based authentication.",
         tech: ["React.js", "Node.js", "Express.js", "MongoDB", "Socket.io", "Tailwind CSS"],
         github: "https://github.com/har-2oc4-22/chatify",
-        live: null,
+        live:  "https://connectify-frontend-gamma.vercel.app/login",
     },
     {
         title: "Grow Carry",
         description: "A full-stack grocery e-commerce platform featuring secure authentication, product browsing, and seamless cart management with Stripe-based checkout integration.",
         tech: ["React", "Node.js", "Express.js", "MongoDB", "Stripe API", "Cloudinary"],
         github: "https://github.com/har-2oc4-22/GrowCarry",
-        live: null,
+        live: "https://growcarry.vercel.app/",
     },
     {
         title: "BookHub",
@@ -116,7 +116,7 @@ export const competitiveProfiles = [
     {
         platform: "CodeChef",
         username: "harsh_shukla22",
-        description: "Max Rating: 1615 | 3 Star",
+        description: "Max Rating: 1742 | 3 Star",
         url: "https://www.codechef.com/users/harsh_shukla22",
         icon: SiCodechef,
         color: "text-orange-500 hover:text-orange-400 group-hover:text-orange-500"

@@ -19,7 +19,7 @@ export const personalInfo = {
     email: "shuklaharsh9752@gmail.com",
     github: "https://github.com/har-2oc4-22",
     linkedin: "https://www.linkedin.com/in/harsh-shukla-a83b3b231/",
-    resumeLink: "https://drive.google.com/file/d/1L7j7GxJk_ASw4Dnl4x7ehLoZliHJWeCG/view?usp=sharing",
+    resumeLink: "https://drive.google.com/file/d/1fXjNmgej5v3xy_5NSUVVq3Q4kf0HqOiJ/view?usp=sharing",
     about: "I am a final year Computer Science engineering student at the Institute Of Engineering And Technology, Lucknow. As a Full-Stack Developer with strong DSA and Competitive Programming skills, I am proficient in building scalable applications featuring secure authentication, integrated payments, and media management. I'm passionate about writing clean, efficient code and continuously learning new technologies.",
 };
 
@@ -71,7 +71,7 @@ export const projects = [
         description: "A responsive full-stack community platform for developers. Features real-time group chat via Socket.io, secure media uploads using Multer and Cloudinary, and JWT-based authentication.",
         tech: ["React.js", "Node.js", "Express.js", "MongoDB", "Socket.io", "Tailwind CSS"],
         github: "https://github.com/har-2oc4-22/chatify",
-        live:  "https://connectify-frontend-gamma.vercel.app/login",
+        live:  "https://chatify-xi-vert.vercel.app/login",
     },
     {
         title: "Grow Carry",

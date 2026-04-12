@@ -67,7 +67,7 @@ export const interests = [
 ];
 export const projects = [
     {
-        title: "Connectify",
+        title: "Chatify",
         description: "A responsive full-stack community platform for developers. Features real-time group chat via Socket.io, secure media uploads using Multer and Cloudinary, and JWT-based authentication.",
         tech: ["React.js", "Node.js", "Express.js", "MongoDB", "Socket.io", "Tailwind CSS"],
         github: "https://github.com/har-2oc4-22/chatify",

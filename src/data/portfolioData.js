@@ -151,8 +151,8 @@ export const achievements = [
         link: "https://codeforces.com/profile/HaRsH_sHUKlA-"
     },
     {
-        title: "CodeChef 3 Star",
-        description: "Reached a peak rating of 1702.",
+        title: "CodeChef 4 Star",
+        description: "Reached a peak rating of 1807.",
         link: "https://www.codechef.com/users/harsh_shukla22"
     },
     {
